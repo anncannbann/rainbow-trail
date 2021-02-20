@@ -7,13 +7,14 @@
 }
 
 body{
+    background-color: #00003f;
     font-family: 'Monoton', cursive;
     text-decoration: none;
     display: flex;
     align-items:center;
     justify-content:center;
     height:100vh;
-    font:5rem;
+    font-size: 100px;
 
 }
 
