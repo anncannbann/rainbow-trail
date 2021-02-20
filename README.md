@@ -1,2 +1,2 @@
 # Rainbow-trail
-Simple text trail Using Html, CSS 
+Simple text trail Using Pure Html, CSS 
